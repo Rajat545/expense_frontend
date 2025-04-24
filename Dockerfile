@@ -1,4 +1,4 @@
-# Specify the base image for this dockerfile
+# Specify the base image 
 FROM node:alpine
 
 # Set the working directory
