@@ -1,4 +1,4 @@
-# Specify the base image 
+# Specify the base image for node project
 FROM node:alpine
 
 # Set the working directory
